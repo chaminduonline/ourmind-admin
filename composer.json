@@ -1,0 +1,20 @@
+{
+    "name": "ourmind/admin",
+    "description": "system administration ui",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chamindu",
+            "email": "chamindu.developer@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ourmind\\Autoload\\Provider\\OurMindAppServiceProvider"
+            ]
+        }
+    },
+
+}
